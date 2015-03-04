@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC311: United States Foreign Policy"
+course_description: "An introduction to the theoretical concepts of American foreign policy, from the nation’s early years to today. Topics include military security, war and alliances, human security, climate change, food and energy security, and human rights."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Theories of International Relations and U.S. Foreign Policy**
 <span id="2"></span> 
 *Social science seeks to develop theories to help explain events in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC311: United States Foreign Policy"
+course_description: "An introduction to the theoretical concepts of American foreign policy, from the nation’s early years to today. Topics include military security, war and alliances, human security, climate change, food and energy security, and human rights."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Major Periods in U.S. Foreign Policy** <span id="3"></span> 
 *Karl Marx contended that “men make their own history, but they don’t
 make it just as they please; they do not make it under circumstances
