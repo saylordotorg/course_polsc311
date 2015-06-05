@@ -220,4 +220,11 @@ prepare for the Final Exam.
     License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
     attribution as requested by the work’s original creator or licensee.
 
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/polsc311/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc311/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc311/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc311/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc311/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc311/Unit06/)
