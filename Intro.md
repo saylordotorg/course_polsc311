@@ -114,7 +114,7 @@ computer;
  √    have competency in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -134,7 +134,7 @@ of the following materials:
     Security
     Policy”](http://ocw.mit.edu/courses/political-science/17-471-american-national-security-policy-fall-2002/calendar/)
 -   [American Government and Politics in the Information
-    Age](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
 -   MIT Open Courseware: Professor Stephen van Evera’s [Causes and
     Prevention of
     War](http://ocw.mit.edu/courses/political-science/17-42-causes-and-prevention-of-war-spring-2009/)
@@ -213,7 +213,7 @@ prepare for the Final Exam.
     as you progress through each resource box below.
 
     Reading: *[American Government and Politics in the Information
-    Age](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
+    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
     (PDF)
 
     Terms of Use: This text was adapted by The Saylor Foundation under a

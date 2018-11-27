@@ -113,7 +113,7 @@ id="1.1"></span> 
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 17, Section 1: The Executive Branch Makes Foreign and
     Military
-    Policies”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Policies”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
       
      Instructions: Read Section 17.1 and attempt the exercises at the
@@ -161,7 +161,7 @@ id="1.1"></span> 
     Government”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 17, Section 2: Influence from Congress and Outside
-    Government”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Government”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
       
      Instructions: Read this section and attempt the exercises at the
@@ -329,7 +329,7 @@ id="1.4.1"></span> 
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 17, Section 5: Foreign and National Security Policies in
     the Information
-    Age”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Age”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
       
      Instructions: Read this section and attempt the exercises at the

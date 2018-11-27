@@ -154,7 +154,7 @@ id="3.1"></span> 
     Security Policies”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 17, Section 3: The Major Foreign and National Security
-    Policies”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Policies”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
       
      Instructions: Read this section and attempt the exercises at the
@@ -799,7 +799,7 @@ id="3.6.3"></span> 
 **3.6.6 The Cuban Missile Crisis** <span id="3.6.6"></span> 
 -   **Reading: The Saylor Foundation’s “The Cuban Missile Crisis”**
     Link: The Saylor Foundation’s [“The Cuban Missile
-    Crisis”](http://www.saylor.org/site/wp-content/uploads/2011/03/Cuban-Missile-Crisis.pdf)
+    Crisis”](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Cuban-Missile-Crisis.pdf)
     (PDF)  
       
      Instructions: Read this text.    
@@ -1110,7 +1110,7 @@ id="3.8.1"></span> 
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 17: Foreign and National Security Policies – Section 17.4:
     The George W. Bush
-    Administration”](http://www.saylor.org/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Administration”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
       
      Instructions: Read section 17.4 in its entirety and attempt the
